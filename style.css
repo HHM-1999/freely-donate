@@ -63,7 +63,10 @@ a{
     padding: 50px;
     font-weight: normal;
 }
-    
+.item{
+    margin-left: 150px;
+    margin-right: 150px;
+}
     
 .donate-item input[type="text"] {
   outline: none;
